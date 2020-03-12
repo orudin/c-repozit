@@ -1,0 +1,123 @@
+﻿  Header.cpp
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(14,6): error C2374: g: переопределение; множественная инициализация
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(13): message : см. объявление "g"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,2): error C2065: zapusnyc: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,12): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,30): error C2061: синтаксическая ошибка: идентификатор "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,2): error C2065: zapusnyc: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,13): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,31): error C2061: синтаксическая ошибка: идентификатор "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(25,3): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(25,12): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(36,13): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(36,4): error C3861: vuvestuu: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(41,13): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(41,4): error C3861: dobavuty: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(42,9): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(42,4): error C3861: sort: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(55,11): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(55,14): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(56,11): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(56,13): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(9,12): error C2084: функция "int main(void)" уже имеет текст реализации
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(9): message : см. предыдущее определение "main"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(14,6): error C2374: g: переопределение; множественная инициализация
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(13): message : см. объявление "g"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(15,17): error C2011: zapusnyc: переопределение типа "struct"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(32,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(34,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(36,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(38,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(40,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(42,15): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(53,7): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(69,1): error C2084: функция "void sort(zapusnyc **,int *)" уже имеет текст реализации
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(47): message : см. предыдущее определение "sort"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(76,6): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(78,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(79,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(80,35): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(81,27): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(82,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(83,34): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(87,11): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(89,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(90,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(91,35): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(92,27): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(93,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(94,34): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(99,11): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(101,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(102,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(103,35): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(104,27): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(105,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(106,34): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(112,28): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(113,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(114,35): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(115,27): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(116,29): error C2027: использование неопределенного типа "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Header.cpp(117,34): error C2027: использование неопределенного типа "zapusnyc"
+  Source.cpp
+C:\Users\orudi\source\repos\Project27\Project27\Header.h(7): message : см. объявление "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(14,6): error C2374: g: переопределение; множественная инициализация
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(13): message : см. объявление "g"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,2): error C2065: zapusnyc: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,12): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(16,30): error C2061: синтаксическая ошибка: идентификатор "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,2): error C2065: zapusnyc: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,13): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(19,31): error C2061: синтаксическая ошибка: идентификатор "zapusnyc"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(25,3): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(25,12): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(36,13): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(36,4): error C3861: vuvestuu: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(41,13): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(41,4): error C3861: dobavuty: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(42,9): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(42,4): error C3861: sort: идентификатор не найден
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(55,11): error C2065: arr: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(55,14): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(56,11): error C2065: ar: необъявленный идентификатор
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(56,13): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(9,12): error C2084: функция "int main(void)" уже имеет текст реализации
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(9): message : см. предыдущее определение "main"
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(14,6): error C2374: g: переопределение; множественная инициализация
+  Создание кода...
+C:\Users\orudi\source\repos\Project27\Project27\Source.cpp(13): message : см. объявление "g"
